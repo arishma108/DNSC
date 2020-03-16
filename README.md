@@ -9,7 +9,7 @@ Partner Project Title: DNSC Web Design and Development
 - Client is interested in marketing the Durban North Smile Center.
 - It is a specialist center for the treatment of conditions related to the face. 
 
-# CUSTOMER COMPANY INFO
+# Customer Company Info
 
 Customer Company Name: Durban North Smile Center\
 Customer Website: http://dnsc.co.za/ \
