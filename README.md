@@ -5,7 +5,7 @@ Partner Project Title: DNSC Web Design and Development
 
 # Project Description 
 
-- Re-Launch a WordPress Website\
+- Re-Launch a WordPress Website
 - Client is interested in marketing the Durban North Smile Center.
 - It is a specialist center for the treatment of conditions related to the face. 
 
